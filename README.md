@@ -1,6 +1,13 @@
-# Website
+# Insighter Technical Documentation
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+
+## Contributing
+We welcome contributions from community members to this repo:
+
+Fixes: If you notice an error, use the Edit this page button at the bottom of each page to suggest a change. Feel free to contribute small changes directly from the GitHub interface.
+
+## Development
 
 ### Installation
 
