@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Insighter',
-  tagline: 'The open source cloud costing platform',
+  tagline: 'The open source cloud costs and usage platform',
   url: 'https://docs.getinsighter.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -43,10 +43,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Insighter',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'The Open Source cloud costs and usage platform',
+          src: 'img/cloudy.png',
         },
         items: [
           {
