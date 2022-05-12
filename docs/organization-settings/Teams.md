@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Manage Docs Versions
+# Teams
 
 Docusaurus can manage multiple versions of your docs.
 

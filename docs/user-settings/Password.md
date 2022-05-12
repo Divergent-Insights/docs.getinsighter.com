@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Manage Docs Versions
+# Password
 
 Docusaurus can manage multiple versions of your docs.
 

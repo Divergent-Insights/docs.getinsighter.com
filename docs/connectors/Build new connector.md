@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Translate your site
+# Build new connector
 
 Let's translate `docs/intro.md` to French.
 

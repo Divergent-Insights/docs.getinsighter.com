@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Manage Docs Versions
+# Two factor authentication
 
 Docusaurus can manage multiple versions of your docs.
 

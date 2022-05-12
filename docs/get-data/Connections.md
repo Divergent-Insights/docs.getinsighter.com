@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Connections
 
-Connections provide access to cost and consumption data
+Connections extract and make available cost and consumption data
 
 ## Build your site
 

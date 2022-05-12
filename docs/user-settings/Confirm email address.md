@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Manage Docs Versions
+# Confirm email address
 
 Docusaurus can manage multiple versions of your docs.
 
